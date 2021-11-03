@@ -4,7 +4,7 @@ eeeeeeee
 llllllll
 llllllll
 llllllll
-ooo
+oooo
 w
 o
 r
