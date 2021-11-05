@@ -5,7 +5,7 @@ llllllll
 llllllll
 llllllll
 oooooooo
-w
+ww
 o
 r
 l
