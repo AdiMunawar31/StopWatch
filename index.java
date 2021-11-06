@@ -6,7 +6,7 @@ llllllll
 llllllll
 oooooooo
 wwwwwwww
-ooooo
+oooooo
 r
 l
 d
