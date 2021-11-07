@@ -7,6 +7,6 @@ llllllll
 oooooooo
 wwwwwwww
 oooooooo
-rr
+rrr
 l
 d
